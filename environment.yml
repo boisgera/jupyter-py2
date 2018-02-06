@@ -1,0 +1,6 @@
+name: tmp-nltk
+dependencies:
+  - python=2.7
+  - pip:
+    - audio.index
+
