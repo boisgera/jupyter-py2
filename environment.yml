@@ -1,6 +1,5 @@
-name: tmp-nltk
+name: py2
 dependencies:
   - python=2.7
-  - pip:
-    - nltk
+
 

@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/tmp-nltk/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/jupyter-py2/master)
